@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Unifier Innovatin Pvt Ltd](https://unibillapp.com/)
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **React , Bootstrap , Javascript**
+- 💬 Ask me about **React , Bootstrap , Javascript , Tailwind css**
 
 - 📫 How to reach me **iamharsh292@gmail.com**
 
